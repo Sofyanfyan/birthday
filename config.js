@@ -12,7 +12,7 @@ var config = {
     "Semoga hubungan kita terus tumbuh.",
     "Terus berbakti kepada ortu.",
     "Aku bersyukur memilikimu di sampingku.",
-    "Selamat ulang tahun yang seng! 🎉",
+    "Selamat ulang tahun ya seng! 🎉",
     "Sofyannnn~~",
   ],
   /**
